@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# JSON files
+*.json
+*.png
+*.txt
+*.csv
+*.xlsx
